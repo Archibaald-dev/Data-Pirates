@@ -29,13 +29,17 @@ We gain in performance.
 
 
 Style :
-Blue color represents intelligence and responsibility;
-it brings serenity and peace to the client / user, increases productivity.
-Generates a feeling of security and confidence.
-It is the most popular color in the world, by individuals (regardless of gender) as well as by brands.
-It is the color most used by institutions that want to be trustworthy.
-it is often associated with white or gray
+    Colors :
+        Blue color represents intelligence and responsibility;
+        it brings serenity and peace to the client / user, increases productivity.
+        Generates a feeling of security and confidence.
+        It is the most popular color in the world, by individuals (regardless of gender) as well as by brands.
+        It is the color most used by institutions that want to be trustworthy.
+        it is often associated with white or gray
 
-
+    Polices :
+        This font works well on all screen sizes and resolutions. She looks familiar.
+        In general, it is preferable to use sans serif typography,
+        which allows better readability of the text. It is therefore suitable for the design of a website
 
 
