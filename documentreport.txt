@@ -1,22 +1,41 @@
-What is your company name?
-CÔME
 
-What is the description of your company?
+  22870 Gautier Lemaitre : in charge of Models on XD (tree structure fonctionalities) and Logo Designer
+  22878 Lutiku Ndongala : Completed the text documents
+  23227 Milo Lallement : In charge of assets and UML Diagram
 
-CÔME is a company specializing in teleworking which aims to facilitate the daily
-life of employees (and students) who work from home.
 
-What does the company do?
 
-For this, it offers on its site support equipment
-and accessories
-that is adapted
-to the new situation of most employees and students, and all this at the best
-prices.
-There is also a Blog tab on the Website with articles and advice (e.g. articles: how to make teleworking pleasant ;
-Dress-code: How to dress while teleworking? New restrictions ; the rights of teleworking employees ; does my employer have the right to impose telework on me ? how set up an office area at home?)
-This is the AliExpress of telecommuting.
+ CÔME
+ This is an e-commerce site for remote working
+ so we wanted a name in which we could find the "hom" sound.
+ The C represents here the word "cocooning" because our site aims to make this experience as pleasant as possible
 
-Who are your target audience?
 
-Our main target are employees and students who work from home.
+ Target audiance :
+ We offer office automation products (pc, printers, office)
+ so naturally, our main target is workers and students who work from home
+ and who need materials (office, IT) to work efficiently.
+
+
+Technologies :
+
+We chose React because it is a javascript library in great demand at the moment, moreover it is very fast
+What makes the difference with its competitors is obviously its flexibility and its performance,
+notably thanks to the work on a virtual DOM and by only updating the rendering in the browser when necessary.
+Because browsers are rather slow to react to changes in the DOM,
+React has the advantage (and intelligence) of limiting interactions with it.
+It therefore performs operations on the virtual DOM and compares it to the real DOM to make the changes to be made.
+We gain in performance.
+
+
+Style :
+Blue color represents intelligence and responsibility;
+it brings serenity and peace to the client / user, increases productivity.
+Generates a feeling of security and confidence.
+It is the most popular color in the world, by individuals (regardless of gender) as well as by brands.
+It is the color most used by institutions that want to be trustworthy.
+it is often associated with white or gray
+
+
+
+
